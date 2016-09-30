@@ -1,0 +1,34 @@
+Supplier Reports - The new supplier report titles are proposed by us. Please review them and provide your review comments.
+
+Sr. No.
+Previous Report Titles - Proposed Report Titles
+
+1.Total # of Suppliers with respective Inventory count - Suppliers Inventory Details
+
+
+2.Top Suppliers having maximum number of parts in their inventory - Top Suppliers Inventory Status
+
+
+3.List of new suppliers added with inventory count total for each within a specified time frame - New Suppliers Inventory Details
+
+
+4.Top suppliers who received maximum orders within a specified time frame - Top Suppliers by Received Orders Count
+
+
+5.Top Suppliers with maximum dollar value for orders received - Top Suppliers by Received Orders Value
+
+
+
+Dealer Reports- We have updated the Dealer Report titles based on the discussion held in the previous meeting.
+
+Sr. No.
+Previous Report Titles
+Updated Report Titles
+
+1.Total number of dealers with login - Dealers Activity Summary
+
+2.Top Dealers by Login Count - Top Dealers Login Activity
+
+3.Top Dealers who placed maximum orders in terms of both order count and dollar value - Top Dealers by Order Count and Value
+
+4.List of dealers by Last Login date - Dealers Activity Details

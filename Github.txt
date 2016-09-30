@@ -1,0 +1,79 @@
+master
+Branch1
+Branch2
+Created branch2(Branch2??)
+
+I will add file
+commit
+push to the branch2
+
+Changes?? case sensitive
+
+
+
+
+There are 3 branches but Why it shows only master branch when I open cmd?
+
+
+Can I push empty Branch into git hub?
+Why the exising files are added in that, though i didnt add any file?
+
+
+Branch creation
+------------------------
+git branch Branch1/create branch
+git checkout Branch1/ switch to the branch
+git push origin Branch1/ push branch to the git hub
+git checkout -b Branch1 / create and switch to the branch1
+
+
+how to pull the changes
+(new file/ changes in file) made from github to the local machine Brnach1
+--------------------------------------------------------------------
+git fetch -all ......Fetaches all the changes from github to local machine
+git merge origin/Branch8... Merge with the local machine file
+
+
+File add in Branch1
+-----------------------------
+First manually create a file in the local machine folder
+git add "File1"
+git commit -m "File1"
+git push origin Branch1
+
+2 branch comparision
+------------------------------------
+git diff master Branch1.... Default branch display 1st
+git diff Branch1 master.... Default branch display 1st
+
+git diff Branch1 Branch2... In which branch it is switcehd shows 1st
+git diff Branch2 Branch1... In which branch it is switcehd shows 1st
+
+pr
+----------------
+make changes in the branch ex- master
+Click New Pull Request
+Default- master, Compare - Required Branch(Branch8)
+Click - Create Pull Request
+do editing/ create new file - commit pull request 
+
+
+git fetch -all
+git merge origin/master
+
+check the local machine file changes(Branch concept not considered)
+
+-------------------
+git checkout .  To get the changes back on desktop
+git checkout Filename to get changes back in mentioned file
+
+
+
+
+
+
+
+
+
+
+
