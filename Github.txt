@@ -30,7 +30,7 @@ git checkout -b Branch1 / create and switch to the branch1
 how to pull the changes
 (new file/ changes in file) made from github to the local machine Brnach1
 --------------------------------------------------------------------
-git fetch -all ......Fetaches all the changes from github to local machine
+git fetch --git merge orgin/masterall ......Fetaches all the changes from github to local machine
 git merge origin/Branch8... Merge with the local machine file
 
 
@@ -56,6 +56,9 @@ Click New Pull Request
 Default- master, Compare - Required Branch(Branch8)
 Click - Create Pull Request
 do editing/ create new file - commit pull request 
+
+
+Shift + Q ----. some problems in the commond promt while running code
 
 
 git fetch -all
